@@ -1,4 +1,4 @@
-!#/ur/bin/bash
+#!/usr/bin/bash
 FILE-S1
 while read NUMBERS;
 do
